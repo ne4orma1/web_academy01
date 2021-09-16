@@ -26,6 +26,3 @@ You might think that because no one else will ever look at your repo, that writi
 
 Remember that these directives are aspirational. You shouldn’t let them get in your way. If you look at the commit history of my repositories, you’ll notice a lot of them aren’t that good, especially when I start to get frustrated that I **still** haven’t managed to fix a bug. Strive to follow these guidelines, and remember it’s better to have multiple bad commits than to have one perfect commit.
 
-tes1t
-
-(Changed in the original and pushed to shared)
